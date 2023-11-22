@@ -9,7 +9,7 @@ import { Certification } from '../models/models';
 export class CertificationsComponent implements OnInit {
   certifications: Certification[] = [
     {
-      title: 'AWS Cloud Practitioner',
+      title: 'AWS Cloud Practitioner- Oct 2023 ',
       time: 'Oct, 2023',
     },
     {
@@ -18,7 +18,7 @@ export class CertificationsComponent implements OnInit {
     },
     {
       title: 'Microsoft Azure Fundamentals(AZ-900)',
-      time: 'July, 2022',
+      time: 'July, ',
     },
   ];
 
